@@ -1,0 +1,24 @@
+{
+  "name": "ng_restapi_nodejs_oracle",
+  "version": "1.0.0",
+  "description": "Oracle Node.JS Express for Angular tour of heroes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://codesprintpro@github.com/codesprintpro/restapiusingnodejsandsqlite3.git"
+  },
+  "author": "Sachin Sarawgi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesprintpro/restapiusingnodejsandsqlite3/issues"
+  },
+  "homepage": "https://github.com/codesprintpro/restapiusingnodejsandsqlite3#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
