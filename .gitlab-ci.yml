@@ -3,3 +3,5 @@ api_job_1:
        - giulio-api-express
      script:
        - .\build.bat
+     only:
+       - oracle
