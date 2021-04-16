@@ -1,3 +1,3 @@
-# Oracle Express API
+# SQLite Express API
 
-Oracle Node.JS Express REST API for Angular tour of heroes
+SQLite Node.JS Express REST API for Angular tour of heroes

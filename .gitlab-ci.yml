@@ -4,4 +4,4 @@ api_job_1:
      script:
        - .\build.bat
      only:
-       - oracle
+       - sqlite
